@@ -1,7 +1,5 @@
-function sentence(a, b, c) {
-  console.log("Param a is " + a);
-  console.log("Param b is " + b);
-  console.log("Param c is " + c);
-}
+//Write a function called longest that returns the longest of two input strings or arrays.
 
-announceParams("root beer", 24, "3.40");
+function longest() {
+  return
+}

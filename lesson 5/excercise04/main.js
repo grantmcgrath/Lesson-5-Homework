@@ -1,7 +1,1 @@
-function sentence(a, b, c) {
-  console.log("Param a is " + a);
-  console.log("Param b is " + b);
-  console.log("Param c is " + c);
-}
-
-announceParams("root beer", 24, "3.40");
+//Write a function called isVowel that takes a character (i.e. a string of length 1) and returns true if it is a vowel, uppercase or lowercase. The function should return false if the character is not a vowel.
